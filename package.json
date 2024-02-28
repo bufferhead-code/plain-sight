@@ -10,6 +10,7 @@
     "package": "plasmo package"
   },
   "dependencies": {
+    "crypto-js": "^4.2.0",
     "plasmo": "0.83.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
@@ -26,6 +27,7 @@
   "manifest": {
     "host_permissions": [
       "https://*/*"
-    ]
+    ],
+    "permissions": ["scripting"]
   }
 }
