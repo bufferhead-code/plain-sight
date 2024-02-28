@@ -10,8 +10,6 @@ style.innerText = '.plain-sight-active{background: #3b82f6;} .plain-sight-active
 document.head.appendChild(style);
 
 
-
-
 passwordFields.forEach(dropTarget => {
     dropTarget.addEventListener("drop", onDropEnd);
     dropTarget.addEventListener("dragenter", onDrop);
