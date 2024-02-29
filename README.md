@@ -1,5 +1,9 @@
 # Plain Sight
 
+**You can learn more about how it works and how i made it [here](http://www.youtube.com/watch?v=q71Z3RBvzIA)**
+
+[![This image is my password](http://img.youtube.com/vi/q71Z3RBvzIA/0.jpg)](http://www.youtube.com/watch?v=q71Z3RBvzIA 'This image is my password')
+
 The browser extension that allows you to use images as passwords. Just drag & drop your password image on any password input field and it will automatically decrypt the password image.
 
 ## How to create password images
