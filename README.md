@@ -1,5 +1,8 @@
 # Plain Sight
 
+> [!NOTE]
+> Check out **solidtime - The modern Open Source Time-Tracker** at [solidtime.io](https://www.solidtime.io)
+
 **You can learn more about how it works and how i made it [here](http://www.youtube.com/watch?v=q71Z3RBvzIA)**
 
 [![This image is my password](http://img.youtube.com/vi/q71Z3RBvzIA/0.jpg)](http://www.youtube.com/watch?v=q71Z3RBvzIA 'This image is my password')
